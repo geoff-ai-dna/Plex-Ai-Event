@@ -40,7 +40,7 @@ Get ready to connect apps, build databases, and design AI voice bots — all in 
 - Connect your bot to real phone numbers, enable voice input/output, and integrate AI models for intelligent conversations.
 - Use it to build callbots, customer support agents, and more!
 
-> 📚 [Vapi Documentation](https://docs.vapi.ai/)
+> 📚 [Vapi Documentation](https://github.com/geoff-ai-dna/Plex-Ai-Event/blob/main/Vapi%20Direction.docx)
 
 ---
 
