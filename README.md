@@ -31,7 +31,7 @@ Get ready to connect apps, build databases, and design AI voice bots — all in 
 - It provides a real-time database, authentication, storage, and serverless functions.
 - Perfect for quickly building a secure and scalable backend for your hackathon project.
 
-> 📚 [Supabase Documentation](https://supabase.com/docs)
+> 📚 [Supabase Documentation](https://github.com/geoff-ai-dna/Plex-Ai-Event/blob/main/Supabase.docx)
 
 ---
 
