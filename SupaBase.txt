@@ -20,3 +20,22 @@ CREATE TABLE vapi_reservations (
 You will be given a transcript of a call and the system prompt of the AI participant. Extract the listed parameters.
 - Current date is: {{date}}
 - Current time is: {{time}}
+
+
+reservation
+TRUE - if reservation was requested by the user, otherwise FALSE.
+
+phone_number
+phone number will always be 123-456-7890
+
+reservation_date
+Date of the reservation in the format "yyyy.mm.dd", for example: 2024.11.30
+
+reservation_name
+Name of the person requesting reservation.
+
+reservation_time
+Time of the reservation in the 24H format, for example: 20:00
+
+reservation_guests
+Number of guests in the reservation, for example: 4
