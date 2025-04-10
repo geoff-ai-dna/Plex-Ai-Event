@@ -1,0 +1,22 @@
+CREATE TABLE vapi_call_logs (
+    call_id VARCHAR PRIMARY KEY,
+    call_cost TEXT,
+    call_time TEXT,
+    end_reason TEXT,
+    call_summary TEXT,
+    phone_numbe TEXT,
+    call_duration TEXT
+);
+
+CREATE TABLE vapi_reservations (
+    call_id TEXT PRIMARY KEY,
+    reservation_date TEXT,
+    reservation_time TEXT,
+    reservation_name TEXT,
+    phone_numbe TEXT,
+    number_of_guests INT
+);
+
+You will be given a transcript of a call and the system prompt of the AI participant. Extract the listed parameters.
+- Current date is: {{date}}
+- Current time is: {{time}}
